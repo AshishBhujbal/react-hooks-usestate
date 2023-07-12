@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.btn-i {
+  width: 60px;
+  height: 40px;
+  margin-left: 30px;
+  background-color: green;
+  font-size: 30px;
+  color: white;
+  border-radius: 12px;
+}
+.btn-d {
+  width: 60px;
+  height: 40px;
+  margin-left: 30px;
+  background-color: red;
+  font-size: 30px;
+  color: white;
+  border-radius: 12px;
+}
